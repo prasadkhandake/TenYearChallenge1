@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TenYearChallenge</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="clear">Clear</string>
+    <string name="empty" />
+    <array name="choice">
+        <item>Student</item>
+        <item>Faculty</item>
+        <item>Lab Assistant</item>
+    </array>
+</resources>
